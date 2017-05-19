@@ -4,7 +4,7 @@ This is a data provider for Vaadin 8 using Spring Data. It supports pagination a
 
 # Example
 
-You can find a complete example project here (link).
+You can find a complete [example project here](https://github.com/waschmittel/springentityprovider-demo).
 
 ## Entity
 
