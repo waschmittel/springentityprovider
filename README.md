@@ -1,6 +1,6 @@
 # Spring Entity Provider for Vaadin
 
-This is a data provider for Vaadin 8 using Spring Data. It supports pagination and sorting.
+This is a data provider for Vaadin 8 using Spring Data. It supports pagination and sorting. Avoids boilerplate code.
 
 # Example
 
